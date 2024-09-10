@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>../email.jpg</file>
+        <file>bank-account.png</file>
+        <file>log-out.png</file>
+        <file>wallet.png</file>
+        <file>padlock.png</file>
+        <file>transfer-money.png</file>
+        <file>user.png</file>
+        <file>picture.png</file>
+        <file>Hig.jpg</file>
+        <file>elite.png</file>
+        <file>add-contact.png</file>
+        <file>password.png</file>
+        <file>bank-account (1).png</file>
+        <file>transfer.png</file>
+        <file>reset-password.png</file>
+        <file>wallet (1).png</file>
+        <file>return.png</file>
+        <file>eye.png</file>
+        <file>show.png</file>
+        <file>elite - Copy.png</file>
+        <file>check.png</file>
+    </qresource>
+    <qresource prefix="/"/>
+</RCC>

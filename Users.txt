@@ -1,0 +1,7 @@
+USERNAME,PASSWORD,FIRSTNAME,LASTNAME,ID NUMBER,AGE,PICTURE ADDRESS
+eri-amm,999,Erfan,Habibnia,0921111111,18,C:/Users/ASUS/Documents/untitled15/uiap-sec-mini-project-eri-amm/images.jpg
+ash,123,Ashkan,Habibnia,0927652341,25,C:\Users\ASUS\Pictures\Cyberpunk 2077\photomode_12042024_160224.jpg
+123,123,mom,123,1231231231,123,C:/Users/ASUS/Desktop/shutterstock_1178406460.jpg
+1231,1231,123,123,1231231231,123123,:/new/prefix1/user.png
+222,222,222,222,2222222222,222,C:/Users/ASUS/Pictures/Cyberpunk 2077/photomode_12042024_160224.jpg
+er,er,erer,er,1231231231,18,:/new/prefix1/user.png
